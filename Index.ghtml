@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lunarpy | Python 3.26 for Lunar Infrastructure</title>
+    <style>
+        body { font-family: 'Inter', sans-serif; background: #0b0e14; color: #e0e6ed; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+        .container { text-align: center; border: 1px solid #232931; padding: 3rem; border-radius: 12px; background: #161b22; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+        h1 { font-size: 2.5rem; margin-bottom: 10px; color: #58a6ff; letter-spacing: -1px; }
+        p { font-size: 1.1rem; color: #8b949e; margin-bottom: 2rem; }
+        .tag { background: #238636; color: white; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: bold; }
+        .contact-btn { background: #21262d; border: 1px solid #f0f6fc1a; color: #c9d1d9; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: 600; transition: 0.2s; }
+        .contact-btn:hover { background: #30363d; border-color: #8b949e; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <span class="tag">UPCOMING RELEASE</span>
+        <h1>Lunarpy<span style="color: #f0f6fc88;">.ai</span></h1>
+        <p>The definitive Python 3.26 framework for <br>autonomous lunar robotics and orbital compute.</p>
+        <a href="mailto:your-email@example.com?subject=Inquiry: Lunarpy Bundle" class="contact-btn">Acquisition Inquiries</a>
+    </div>
+</body>
+</html>
